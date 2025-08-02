@@ -1,2 +1,2 @@
 # 🔥 News
-- 2024.11: 🎉 Our [on-chip hyperspectral image sensor paper](https://yuzhezhang-1999.github.io/publications.html) has been published at **Nature**! 
+- 2024.11: 🎉 Our [on-chip hyperspectral image sensor paper]([A broadband hyperspectral image sensor with high spatio-temporal resolution](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DexiDloAAAAJ&citation_for_view=DexiDloAAAAJ:W7OEmFMy1HYC)) has been published at **Nature**! 
