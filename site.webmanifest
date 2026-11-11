@@ -1,0 +1,16 @@
+{
+  "name": "Zhen Wang · Computational Imaging Researcher",
+  "short_name": "Zhen Wang",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfcfd",
+  "theme_color": "#071a2b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
